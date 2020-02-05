@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Konstruktor</title>
+    <title>KlasatoString</title>
 </head>
 <body>
     <?php
@@ -12,6 +12,6 @@
 		
 		
 		
-		?>
+    ?>
 </body>
 </html>
